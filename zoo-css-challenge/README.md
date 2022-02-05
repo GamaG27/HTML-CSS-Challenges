@@ -20,13 +20,13 @@ Most of the text on the page is very close together. Increase the amount of spac
 
 All the images of bears have the same border colour, can all these images be given a different border colour? /
 
-The images of the bears are also misaligned. Can all these images be vertically aligned to the top of the container.
+The images of the bears are also misaligned. Can all these images be vertically aligned to the top of the container. /
 
 ## 3) Tigers
 
-The purple headings are hard to read on dark backgrounds, change them to a lighter colour. Make sure it passes the WCAG AA standards for contrast. You can use this tool to help: https://webaim.org/resources/contrastchecker/
+The purple headings are hard to read on dark backgrounds, change them to a lighter colour. Make sure it passes the WCAG AA standards for contrast. You can use this tool to help: https://webaim.org/resources/contrastchecker/ ?
 
-Change the heading of this section to ‘Tiger Facts’, remove the subheading, and change the ordered list to an unordered list.
+Change the heading of this section to ‘Tiger Facts’, remove the subheading, and change the ordered list to an unordered list. /
 
 ## 4) Giraffes
 
