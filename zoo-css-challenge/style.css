@@ -30,7 +30,7 @@ section {
 }
 
 img {
-  border: 5px solid #8075ff;
+  border:;
 }
 
 h1,
@@ -76,6 +76,8 @@ footer {
 }
 
 .introduction {
+  background-color:#ffffff;
+  
 }
 
 #badge {
@@ -115,6 +117,10 @@ footer {
 .tigers {
   background-color: #0b3c49;
   color: #f0e100;
+}
+
+.bears {
+  border: rgb(94, 29, 29);
 }
 
 .giraffe {
