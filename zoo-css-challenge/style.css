@@ -57,7 +57,7 @@ button {
   border-radius: 3px;
   cursor: pointer;
   padding: 10px 20px;
-  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 6px 0 #00000033;
   background-color: #372772;
   border: 2px solid black;
   color: #fff;
@@ -88,13 +88,15 @@ footer {
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
 
   display: flex;
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  
+  transition: background-color 0.5s cubic-bezier(1,-0.17,0,1.8);
 }
 
 #badge:hover {
@@ -114,7 +116,7 @@ footer {
 
 .image-container img:first-of-type {
   vertical-align: top;
-  border-color: rgb(167, 43, 43);
+  border-color: #a72b2b;
 }
 
 .image-container img:last-of-type {
@@ -231,5 +233,5 @@ font-size: larger;
 
 .programs .card {
   display: incline-block;
-  padding: 5px;;
+  padding: 6px;;
 }
